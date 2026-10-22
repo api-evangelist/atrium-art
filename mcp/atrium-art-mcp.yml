@@ -1,0 +1,8 @@
+generated: '2026-10-22'
+method: derived
+idempotency:
+  coverage: none
+source: none
+deployment:
+  mode: none
+  verified: derived

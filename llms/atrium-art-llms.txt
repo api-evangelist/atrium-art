@@ -1,0 +1,40 @@
+# Atrium Documentation
+
+## Documentation
+
+- [Characters](https://docs.atrium.art/training/editor.md): Overview
+- [Step 1: Upload a Reference Image](https://docs.atrium.art/training/editor/editor.md)
+- [Step 2: Answer your Character Questions](https://docs.atrium.art/training/editor/editor-1.md)
+- [Step 3: Preparing your Training Image Set](https://docs.atrium.art/training/editor/editor-2.md)
+- [Step 4: Training Dataset](https://docs.atrium.art/training/editor/editor-3.md)
+- [Step 5: Model Versions & Selection](https://docs.atrium.art/training/editor/step-5-model-versions-and-selection.md)
+- [Multi-character training Dataset](https://docs.atrium.art/training/editor/multi-character-training-dataset.md): Overview
+- [Frame Extractor](https://docs.atrium.art/training/frame-extractor.md): Optional if you are using Videos to quickly obtain training Images
+- [Manage Tags](https://docs.atrium.art/training/manage-tags.md): Overview
+- [Generating Media](https://docs.atrium.art/generate/generating-media.md): Overview
+- [Images](https://docs.atrium.art/generate/images.md)
+- [Text to Image](https://docs.atrium.art/generate/images/text-to-image.md): Overview
+- [Image to Image](https://docs.atrium.art/generate/images/image-to-image.md): Overview
+- [Multi-Character](https://docs.atrium.art/generate/images/multi-character.md): Overview
+- [Backgrounds](https://docs.atrium.art/generate/images/backgrounds.md)
+- [Upscale](https://docs.atrium.art/generate/images/upscale.md): Overview
+- [Outpainting](https://docs.atrium.art/generate/images/outpainting.md): Overview
+- [Edit Images](https://docs.atrium.art/generate/images/edit-images.md): Overview
+- [Video](https://docs.atrium.art/generate/video.md): Overview
+- [Image to Video (Start Frame)](https://docs.atrium.art/generate/video/image-to-video-start-frame.md): Overview
+- [Image to Video (Start & End Frame)](https://docs.atrium.art/generate/video/image-to-video-start-and-end-frame.md): Overview
+- [Recommended Ways to Make Good Videos](https://docs.atrium.art/generate/video/recommended-ways-to-make-good-videos.md)
+- [Upscale Videos](https://docs.atrium.art/generate/video/upscale-videos.md): Overview
+- [Edit Video](https://docs.atrium.art/generate/video/edit-video.md): Overview
+- [Cropping](https://docs.atrium.art/generate/video/edit-video/cropping.md): Overview
+- [Trimming](https://docs.atrium.art/generate/video/edit-video/trimming.md): Overview
+- [Transparent GIF Stickers](https://docs.atrium.art/generate/video/edit-video/transparent-gif-stickers.md): Overview
+- [Meme Maker](https://docs.atrium.art/other-apps/meme-maker.md)
+- [Vectorize](https://docs.atrium.art/other-apps/vectorize.md): Overview
+- [Merge Scenes](https://docs.atrium.art/other-apps/merge-scenes.md): Overview
+- [Member Management](https://docs.atrium.art/admin/member-management.md): Overview
+
+## Help Center
+
+- [Help Center](https://docs.atrium.art/help-center/readme.md)
+- [Image Generation](https://docs.atrium.art/help-center/image-generation.md): Overview
